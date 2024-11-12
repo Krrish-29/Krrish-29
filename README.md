@@ -2,13 +2,13 @@
   My Skills🖥️
   <hr>
   <h4>Languages:
-    Python 
-    C
-    Html
-    CSS
-    Javascript
+    Python <br>
+    C <br>
+    Html <br>
+    CSS <br>
+    Javascript <br>
   </h4>
 </h1>
-- 🔭 I’m currently working on open source contibutions.
-- 🌱 I’m currently learning Javascript.
-- 📫 How to reach me: kingkrrish29@gmail.com
+- 🔭 I’m currently working on open source contibutions. <br>
+- 🌱 I’m currently learning Javascript.<br>
+- 📫 How to reach me: kingkrrish29@gmail.com<br>
