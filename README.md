@@ -1,8 +1,12 @@
-## Hi there , I am Krrish.🙌
-<h1>
+<h1>## Hi there , I am Krrish.🙌
   My Skills🖥️
   <hr>
-  <h4>Languages
+  <h4>Languages:
+    Python 
+    C
+    Html
+    CSS
+    Javascript
   </h4>
 </h1>
 - 🔭 I’m currently working on open source contibutions.
