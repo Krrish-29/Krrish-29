@@ -1,4 +1,5 @@
 <h1>Hi there , I am Krrish.🙌<br>
+  <hr>
   My Skills🖥️
   <hr>
   <h4>Languages:
