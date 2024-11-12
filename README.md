@@ -4,7 +4,7 @@
   I'm an enthusiastic Techie and a Developer who loves to contribute to the Opensource Community.
   <h3><hr></h3><br>
   My Skills🖥️
-  <hr>
+  <h7><hr></h7>
   <h4>Languages:<br>
     Python <br>
     C <br>
