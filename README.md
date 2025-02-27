@@ -11,8 +11,9 @@
     Html <br>
     CSS <br>
     Javascript <br>
+    Kotlin<br>
   </h4>
 </h1>
 - 🔭 I’m currently working on open source contibutions. <br>
-- 🌱 I’m currently learning Javascript.<br>
+- 🌱 I’m currently learning Kotlin and App development.
 - 📫 How to reach me: kingkrrish29@gmail.com<br>
