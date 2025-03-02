@@ -1,21 +1,23 @@
-<h1 align ="centre">Hi there , I am <color="blue">Krrish.</font>🙌</h1>
-  <h7><br></h7>
-  <br>
-  I'm an enthusiastic Techie and a Developer who loves to contribute to the Opensource Community.
-  <h3><hr></h3><br>
-  My Skills🖥️
-  <h7><hr></h7>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img src=" https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/android.svg" height="40" alt="docker logo"  />
- 
-    C <br>
-    Html <br>
-    CSS <br>
-    Javascript <br>
-    Kotlin<br>
-  </h4>
-</h1>
-- 🔭 I’m currently working on open source contibutions. <br>
-- 🌱 I’m currently learning Kotlin and App development.<br>
-- 📫 How to reach me: kingkrrish29@gmail.com<br>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />, I am <font color="blue">Krrish</font></h1>
+<br>
+<p>I'm an enthusiastic Techie and a Developer who loves to contribute to the Open Source Community.</p>
+<hr>
+<h3>My Skills 🖥️</h3>
+<hr>
+<span>
+  <img src="https://private-user-images.githubusercontent.com/74038190/238200622-e0d299f2-767c-4c21-bd49-90f2a19f1a78.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA5MjMzMTMsIm5iZiI6MTc0MDkyMzAxMywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA2MjItZTBkMjk5ZjItNzY3Yy00YzIxLWJkNDktOTBmMmExOWYxYTc4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzAyVDEzNDMzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY3N2JkNjQyZTY2YTI1NTc0YzRhZGJhNDMwZmU0MDkyYzQ3MmE5ZmExYTllZTRkMjMxMGYwNmZlNTNjNTM0MzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.wzlUU6qedAMyrhs5ZCujruCPzXSsPNvGipa_Iw-qsM4" height="40" alt="C logo" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height="40" alt="Python logo" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA5MjMzMTMsIm5iZiI6MTc0MDkyMzAxMywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzAyVDEzNDMzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc4YzUxY2RhZjQwZDQyMzE2MzdiNTdlZGYxZDQzYmU2ZmRkNmMwYmJhNzcwNTFlYjE3Mjk3OTBlZDAyMzk2YzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.uoiMrYfTj-MT2sRfHINJ0rmoLGWdiQ_kuRcPkivHPF8" height="40" alt="HTML logo" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA5MjMzMTMsIm5iZiI6MTc0MDkyMzAxMywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzAyVDEzNDMzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEwMjQyZTIyZTU5MGFhY2I1M2MwNDBjNWE3Y2EwNTM0NjIyMzhhNzYyOGVjMjEwM2Q0ZGE3ZWI0ZmMyOTk1MjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.kqc6_O0Ef9lyUaHZtApzhUUBMZLhW9nloVNuDqdNDRo" height="40" alt="CSS logo" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="40" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" height="40" alt="Kotlin logo" />
+  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" height="40" alt="Android logo" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/238200431-3c16d4f2-b757-4c70-8f42-43d5dddd2c36.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA5MjMzMTMsIm5iZiI6MTc0MDkyMzAxMywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MzEtM2MxNmQ0ZjItYjc1Ny00YzcwLThmNDItNDNkNWRkZGQyYzM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzAyVDEzNDMzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgyZmI3ZTk5NWQ5ODVlMDA3OWM0MTE0OTM1NjYzYzc5ZmNkZmE1ZjVjMDA3MTA5MTIxMzAwMmFhM2E5MWFhMDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ZP-lFUfS3ZLfusE-VKKxD1p6zlcLhbVCULl62yYu-48" height="40" alt="Firebase logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker logo" />
+</span>
+<br><br>
+<ul>
+  <li>🔭 I’m currently working on open source contributions.</li>
+  <li>🌱 I’m currently learning Kotlin and App development.</li>
+  <li>📫 How to reach me: <a href="mailto:kingkrrish29@gmail.com">kingkrrish29@gmail.com</a></li>
+</ul>
